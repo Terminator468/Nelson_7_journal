@@ -1,0 +1,1 @@
+1. To create a new file for github, you do cd Nelson_7_journal, mkdir Nelson_7_Journal, and then pico journal_----.
