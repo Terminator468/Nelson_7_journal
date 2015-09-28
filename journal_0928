@@ -1,0 +1,3 @@
+1. You count by using the command: for ((i=0; i<[Number]; i++))
+2. You use a modulo (%) to check this.
+3. You can also use a modulo (%) for this.
