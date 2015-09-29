@@ -1,0 +1,2 @@
+1. The method is the code at the start of a program that allows an application to run. This is the code: public static void main(String[] args)
+2. You can define a method for the program that finds the primes.
