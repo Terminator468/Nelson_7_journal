@@ -1,0 +1,4 @@
+1. Strings are a combination of chars.
+2. They are good for sending messages to the user and recieving input from the user.
+3. (The method is "hi") hi.contains, hi.equals, etc.
+4. They have String before them.
