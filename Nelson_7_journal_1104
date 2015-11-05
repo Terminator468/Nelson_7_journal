@@ -1,0 +1,4 @@
+1. A method is a container for your code.
+2. I have methods for asking for the user's name, a method for the whole game, and a method for guessing again.
+3. A while loop tests for something and loops something else until the 1st something isn't true.
+4. I used a while loop for restarting, a boolean for testing if the while loop should loop, and I used a counter for counting how many guesses the user has guessed.
