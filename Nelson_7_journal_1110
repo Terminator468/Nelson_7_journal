@@ -1,0 +1,3 @@
+1. You can keep track of this by using a boolean for storing whether or not you have completed that challenge.
+2. You can have an integer that is decreased every time you lose HP.
+3. You can use booleans to keep track of whether or not you have picked up an item too. 
