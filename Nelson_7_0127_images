@@ -1,0 +1,3 @@
+1. You add it using this code:
+Image image = new Image("res/PICNAME.png");
+2. The image is drawn in the Unwavering class using the same code I stated in #1
