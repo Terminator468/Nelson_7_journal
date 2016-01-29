@@ -1,0 +1,17 @@
+1. A class constructor is where you define a class in a Java program.
+2. It should include these things:
+        private int x;
+	private int y;
+	private boolean isvisible = true;
+	Image orb;
+	public Orb(int x, int y) throws SlickException {
+		this.x = x;
+		this.y = y;
+		this.isvisible = false;
+	}
+3. It should have this method:
+	public Orb(int x, int y) throws SlickException {
+		this.x = x;
+		this.y = y;
+		this.isvisible = false;
+	}
