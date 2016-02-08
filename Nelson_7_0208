@@ -1,0 +1,1 @@
+1. In order to check for this, you would have to set up a hitbox on the item/enemy and check to see if the player intersects it, and in the case of a player damaging an enemy, the player must intersect the enemy's hitbox and press a certain key to inflict damage.
