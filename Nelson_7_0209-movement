@@ -1,5 +1,1 @@
-1. In order to do this, you must set the orb's location to (Player.x, Player.y).
-2.
-orb1.setX((int) Player.x);
-orb1.setY((int) Player.x);
-
+1. In order to do this, you must set the orb's direction the same as the player's, which you need to input in the place where the player's direction is set. In the code, you have to make it test for the layer's direction and set the orb's direction to that.
