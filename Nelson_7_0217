@@ -1,0 +1,11 @@
+1. Arrays are used to store values of the same type.
+2. public int something = new int;
+3. public String[] something = new String[];
+4. public boolean[] something = new boolean[];
+5. public double[] something = new double[];
+6. public int[0] something = {42, 78, 95};
+7. public String[2] something = {"Yolanda", "Tyrone", "Bob"};
+8. This code creates an array of 3 new strings defined in dessert.
+9. It defines 3 strings, rice pudding, pan dulce, and bunuelos as postres.
+10. 1 defines 3 empty strings and the other defines 3 strings that are filled with text.
+11. postres[2] = "apple pie";
