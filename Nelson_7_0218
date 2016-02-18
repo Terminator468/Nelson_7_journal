@@ -1,0 +1,10 @@
+1. This is the code that updates the player sprite in a way that makes the sprite appear to be moving (animation).
+2. It would be completely unrealistic to memorize it because slick is something that is unapplicable in the real world, we are trying to learn java in general in this class.
+3. An array is a list of items that you can call from anywhere in the program.
+4. This is how you make an array: public String[] something = new String[];
+5. An array list is basically the same as an array but it focuses mainly on it's size flexibility.
+6. public ArrayList<Whatever> stuff = new ArrayList;
+7. public ArrayList<item> stuff = new ArrayList();
+8. Three useful array list methods I've identified are set, add, and remove.
+9. One is a little more flexible than the other.
+10. You could have an array with an integer that gets a certain amount taken off when it takes damage.
