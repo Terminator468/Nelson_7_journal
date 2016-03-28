@@ -1,0 +1,6 @@
+1. I noticed that a lot of things are very similar. But, 1 difference is that it is made to be MUCH simpler than C. Also, it has special methods designed just for arduino. Lastly, it doesn't need a class constructor or a main method like Java.
+2. We started to work on a bomb that counts down at a shorter and shorter interval. It uses the red LED and a piezo buzzer.
+3. A curcuit is required to loop from the + to the -.
+4. You code it on the computer, then it checks the code and sends the program to the Arduino over the USB.
+5. We only completed the 1st few projects, then we started playing with the bomb and we've been doing that ever since.
+6. We plan to make a game where you have to do the right actions to deactivate the bomb before it is too late... this willl include pressing certain buttons, typing certain things, etc. We will also make a game mode so that when you complete a certain action it adds time on, and you try to survive as long as possible.
