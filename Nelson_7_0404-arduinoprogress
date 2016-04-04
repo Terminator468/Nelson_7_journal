@@ -1,0 +1,5 @@
+1. So far, we have made a timer and a speed with the lcd display, we've hooked up a piezo buzzer and an led, and we've programed lots of stuff.
+2. We need to hook up the buttons and program a TON so that this is actually a game.
+3. I think we will, hopefully.
+4. We will need to make a listener for the buttons and make the speed speed up if you mess up.
+5. We've made functions for the lcd display, the delays, and the led blink.
