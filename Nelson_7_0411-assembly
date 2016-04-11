@@ -1,0 +1,7 @@
+1. Assembly is a low-level programming language that takes much more time to program that Java or C but has many advantages, such as the fact that it can control system hardware, and it only contains the code necessary to perform the given task.
+2. Assembly is good for making programs that can control operations on the computer.
+3. Assembly is different than Java in that it is much more compatible and it requires a lot more code than Java.
+4. A high level language is portable, easier to code, has fewer lines of code, and program maintenence is easier. Low level languages don't have any of that, but it can control the computer's hardware and it only contains the code necessary to perform the given task.
+5. Java is a high level language because it is a lot easier to code, it's portable, and it requires less lines of code.
+6. Assembly is a low level language because it is much harder to write, it is not portable, and it is very tedious.
+
