@@ -1,0 +1,29 @@
+1. ELF stands for Executeable and Linkable Format, so this compiles the code so that is is executable by the user.
+2. LD is the compiler for the code.
+3. Assembly does not use chmod because it already became executable after ELF.
+4. This is the code I used:
+
+global  _start
+
+        section .text
+_start:
+        ; write(1, message, 13)
+        mov     rax, 1                  ; system call 1 is write
+        mov     rdi, 1                  ; file handle 1 is stdout
+        mov     rsi, message            ; address of string to output
+        mov     rdx, 43                 ; number of bytes
+        syscall                         ; invoke operating system to do the wri$
+
+        ; exit(0)
+        mov     eax, 60                 ; system call 60 is exit
+        xor     rdi, rdi                ; exit code 0
+        syscall                         ; invoke operating system to exit
+message:
+        db      "My name is Simon, but you can call me Jude!", 50
+
+5. I had to change the bit length so that it will print out the full sentence.
+6. NO IT IS DEFINETELY NOT QUICK AND EASY! IT TOOK ME FOREVER JUST TO MAKE IT PRINT A FEW CHARACTERS!!!
+7. It means that it is much more complicated but you can tell it exactly what you want to do. High level languages are much less code but most of the functions it uses are hidden.
+
+
+
