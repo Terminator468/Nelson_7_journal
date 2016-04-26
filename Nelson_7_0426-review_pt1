@@ -1,0 +1,4 @@
+1. public static cubed(int a, int b) { b = 4; a = b * b * b; return a; }
+2. int cubed(int a, int b,) { b = 4; a = b * b * b; return a; }
+3. public class student { public int x; public int y; public student(int a, int b) { x = a; y = b; } }
+4. If we continued Arduino, I would make my game a LOT more awesome with highscores, better button pressing detection, and I could fix the many bugs it has as well! It would be awesome if we could keep working on it!
