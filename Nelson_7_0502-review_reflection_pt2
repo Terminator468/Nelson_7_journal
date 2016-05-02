@@ -1,0 +1,11 @@
+1. An array is a group of some sort of data value that is of a certain length. There are 1D arrays, 2D arrays, and 3D arrays.
+2. String[] stuff = new String[10];
+3. It is written the same as a normal array, except that it has 2 pairs of brackets. Example: String[][] stuff = new String[10][10];
+4. A 3D array is like a normal array except it has 3 pairs of brackets. Example: String[][][] stuff = new String[10][10][10];
+5. stuff[3] = 3;
+6. A while loop repeats a set code as long as a certain condition is true. To make a while loop, you need to put the condition in parentheses and type while before it, and then you put a pair of brackets after it and put whatever you want to repeat in that. Example: while (condition == true) { System.out.println("hi"); }
+7. They help you do things like restart functions, repeating for a certain number of times, etc.
+8. You will call the method like this: method(); . This will make the method run.
+9. This is because the user could input an uppercase character that the program doesn't recognize, which would break the program.
+10. This is so that you can organise your code much better, and you can call a method from anywhere in the program, so it is much more useful overall.
+11. I will create values for health, location, etc. To make it accessible by other methods I will make these values static. This is so that I can access the variables from any method.
