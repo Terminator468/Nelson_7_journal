@@ -1,0 +1,8 @@
+1. The x coordinate is the 2nd variable, and the y coordinate is the first variable. The reason it is like this is because the variable j used for printing the periods is the x coordinate, and i is used for the y.
+2. if (i == 0) { System.out.print("8888"); } This code prints 4 8s on the first row, or at y = 0 (in the code it is j).
+3. System.out.print(map[i][j]); This code prints the char that is located at that coordinate, and this is only executed if that location does not contain the character of choice.
+4. System.out.println("."); This code prints out a period at the specified location if at that location there is none of the specified character. It also goes to the next line. This is different than #e because this code goes to the next line after printing but #e doesn't.
+5. System.out.println(map[i][j]);  This is basically the same as #a: This code prints the char that is located at that coordinate, and this is only executed if that location does not contain the character of choice. It also goes to the next line after it prints.
+6. To use a boolean with a while loop, you put the boolean in the parentheses an, when run, it repeatedly executes the code inside the curly braces until the conditional in the parentheses is not true. Example: while (test == true) { System.out.print("Hi! "); if (whatever == true) {test == false;}}
+7. Static makes a variable, class, method, etc. available for use by all other methods.
+8. I did not use any objects in my game.
