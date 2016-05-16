@@ -1,0 +1,11 @@
+1. Casting is when you take a specific variable of a specific data type and you convert it to another data type. Upcasting is when that variable becomes less specific (like a double to an int), and downcasting is when it becomes more specific (like an int to a double).
+2. Code example for upcasting:
+float a = 1;
+int b = (int)a;
+3. Code example for downcasting:
+int a = 1;
+float b = (float)a;
+4. Code example for converting a char to a String:
+char a = 'X';
+String b = (String)a;
+5. The range for a byte is -128 to 127.
